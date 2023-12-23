@@ -1,0 +1,27 @@
+.cont-hor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  #horarios {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  img{
+    width: 400px;
+  }
+.container{
+    background-color: white;
+}
+.bodyy{
+    background-color: white;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+
+}
